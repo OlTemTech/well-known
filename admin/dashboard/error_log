@@ -1,0 +1,69 @@
+[03-Jan-2023 02:20:03 Africa/Lagos] PHP Warning:  Undefined variable $queryC in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:20:03 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php:437
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/AdminController.php(387): AdminModel->updateAlphaTopup()
+#1 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/includes/route.php(168): AdminController->updateAlphaTopup()
+#2 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/index.php(1): require_once('/home/hopejjiu/...')
+#3 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:21:02 Africa/Lagos] PHP Warning:  Undefined variable $queryC in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:21:02 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php:437
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/AdminController.php(387): AdminModel->updateAlphaTopup()
+#1 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/includes/route.php(168): AdminController->updateAlphaTopup()
+#2 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/index.php(1): require_once('/home/hopejjiu/...')
+#3 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:21:09 Africa/Lagos] PHP Warning:  Undefined variable $queryC in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:21:09 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php:437
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/AdminController.php(387): AdminModel->updateAlphaTopup()
+#1 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/includes/route.php(168): AdminController->updateAlphaTopup()
+#2 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/index.php(1): require_once('/home/hopejjiu/...')
+#3 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:22:15 Africa/Lagos] PHP Warning:  Undefined variable $queryC in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:22:15 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php:437
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/AdminController.php(387): AdminModel->updateAlphaTopup()
+#1 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/includes/route.php(168): AdminController->updateAlphaTopup()
+#2 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/index.php(1): require_once('/home/hopejjiu/...')
+#3 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 03:51:23 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/transactions.php on line 41
+[03-Jan-2023 04:28:39 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/transactions.php on line 41
+[10-Apr-2023 22:23:27 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method AdminController::getDataPins() in /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php:330
+Stack trace:
+#0 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(293): getDataIfAny('data-pins')
+#1 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(282): createView('data-pins')
+#2 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/index.php(1): require_once('/home/dharehx/j...')
+#3 {main}
+  thrown in /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php on line 330
+[10-Apr-2023 22:52:49 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method AdminModel::getDataPins() in /home/dharehx/jossyfeydataservice.com.ng/core/Controllers/AdminController.php:456
+Stack trace:
+#0 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(330): AdminController->getDataPins()
+#1 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(293): getDataIfAny('data-pins')
+#2 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(282): createView('data-pins')
+#3 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/index.php(1): require_once('/home/dharehx/j...')
+#4 {main}
+  thrown in /home/dharehx/jossyfeydataservice.com.ng/core/Controllers/AdminController.php on line 456
+[10-Apr-2023 22:52:50 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method AdminModel::getDataPins() in /home/dharehx/jossyfeydataservice.com.ng/core/Controllers/AdminController.php:456
+Stack trace:
+#0 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(330): AdminController->getDataPins()
+#1 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(293): getDataIfAny('data-pins')
+#2 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(282): createView('data-pins')
+#3 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/index.php(1): require_once('/home/dharehx/j...')
+#4 {main}
+  thrown in /home/dharehx/jossyfeydataservice.com.ng/core/Controllers/AdminController.php on line 456
+[10-Apr-2023 22:52:57 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method AdminModel::getDataPins() in /home/dharehx/jossyfeydataservice.com.ng/core/Controllers/AdminController.php:456
+Stack trace:
+#0 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(330): AdminController->getDataPins()
+#1 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(293): getDataIfAny('data-pins')
+#2 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(282): createView('data-pins')
+#3 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/index.php(1): require_once('/home/dharehx/j...')
+#4 {main}
+  thrown in /home/dharehx/jossyfeydataservice.com.ng/core/Controllers/AdminController.php on line 456
+[13-Apr-2023 22:44:17 Africa/Lagos] PHP Notice:  Undefined index: searchfor in /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/transactions.php on line 41
+[14-Apr-2023 17:19:09 Africa/Lagos] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dharehx/jossyfeydataservice.com.ng/core/Controllers/AdminController.php on line 33
+[15-Apr-2023 08:59:37 Africa/Lagos] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dharehx/jossyfeydataservice.com.ng/core/Controllers/AdminController.php on line 33
+[15-Apr-2023 11:34:41 Africa/Lagos] PHP Notice:  Undefined index: searchfor in /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/transactions.php on line 41
